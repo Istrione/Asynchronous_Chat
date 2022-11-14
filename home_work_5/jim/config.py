@@ -1,0 +1,22 @@
+ACTION = 'action'
+TIME = 'time'
+USER = 'user'
+ACCOUNT_NAME = 'account_name'
+DEFAULT_ACCOUNT_NAME = 'account_name'
+RESPONSE = 'response'
+ERROR = 'error'
+PRESENCE = 'presence'
+
+BASIC_NOTICE = 100
+OK = 200
+ACCEPTED = 202
+WRONG_REQUEST = 400
+SERVER_ERROR = 500
+
+RESPONSE_CODES = (
+    BASIC_NOTICE,
+    OK,
+    ACCEPTED,
+    WRONG_REQUEST,
+    SERVER_ERROR
+)
