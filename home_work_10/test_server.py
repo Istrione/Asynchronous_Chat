@@ -1,6 +1,6 @@
 import unittest
 
-from home_work_9.server import *
+from home_work_10.server import *
 import time
 
 
