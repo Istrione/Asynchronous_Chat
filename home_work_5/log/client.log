@@ -16,3 +16,21 @@
 2022-11-14 18:40:14,396 ERROR client translate_message Type error 
 2022-11-14 18:40:14,396 ERROR client translate_message Response Code Length Error 
 2022-11-14 18:40:14,396 ERROR client translate_message Response code error 
+2022-11-30 19:42:07,246 INFO client Client started 
+2022-11-30 19:42:07,246 WARNING client Server address is empty, using localhost 
+2022-11-30 19:42:07,247 WARNING client Server port is empty, using 7777 
+2022-11-30 19:42:07,247 DEBUG client Starting connection... 
+2022-11-30 19:42:09,294 ERROR client Exception: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 
+2022-11-30 19:42:09,294 INFO client Client stopped 
+2022-11-30 19:42:12,491 INFO client Client started 
+2022-11-30 19:42:12,492 WARNING client Server address is empty, using localhost 
+2022-11-30 19:42:12,493 WARNING client Server port is empty, using 7777 
+2022-11-30 19:42:12,493 DEBUG client Starting connection... 
+2022-11-30 19:42:14,534 ERROR client Exception: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 
+2022-11-30 19:42:14,534 INFO client Client stopped 
+2022-12-01 19:41:35,441 INFO client Client started 
+2022-12-01 19:41:35,442 WARNING client Server address is empty, using localhost 
+2022-12-01 19:41:35,442 WARNING client Server port is empty, using 7777 
+2022-12-01 19:41:35,442 DEBUG client Starting connection... 
+2022-12-01 19:41:37,470 ERROR client Exception: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 
+2022-12-01 19:41:37,470 INFO client Client stopped 
