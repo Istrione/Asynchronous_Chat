@@ -1,4 +1,4 @@
-from home_work_10.client_log_config import logger
+from home_work_11.client_log_config import logger
 from functools import wraps
 import inspect
 
