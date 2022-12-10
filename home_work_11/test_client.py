@@ -1,6 +1,6 @@
 import unittest
-from home_work_10.client import *
-import home_work_10.server
+from home_work_11.client import *
+import home_work_11.server
 import time
 import threading
 import re
@@ -58,7 +58,7 @@ class TestClient(unittest.TestCase):
         self.assertEqual(translate_message({RESPONSE: OK}), {RESPONSE: OK})
 
     def test_communication(self):
-        th = threading.Thread(target=home_work_10.server.main)
+        th = threading.Thread(target=home_work_11.server.main)
         th.daemon = True
         th.start()
         correct_message = [

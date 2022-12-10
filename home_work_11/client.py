@@ -2,11 +2,11 @@ import sys
 import time
 
 from socket import socket, AF_INET, SOCK_STREAM
-from home_work_10.errors import *
-from home_work_10.jim.config import *
-from home_work_10.jim.utils import send_message, get_message
-from home_work_10.client_log_config import logger
-from home_work_10.decorator import log
+from home_work_11.errors import *
+from home_work_11.jim.config import *
+from home_work_11.jim.utils import send_message, get_message
+from home_work_11.client_log_config import logger
+from home_work_11.decorator import log
 
 
 @log

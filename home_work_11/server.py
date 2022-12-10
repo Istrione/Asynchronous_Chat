@@ -1,9 +1,9 @@
 import sys
 from socket import socket, AF_INET, SOCK_STREAM, SOL_SOCKET, SO_REUSEADDR
-from home_work_10.jim.utils import get_message, send_message
-from home_work_10.jim.config import *
-from home_work_10.server_log_config import serv_logger
-from home_work_10.decorator import log
+from home_work_11.jim.utils import get_message, send_message
+from home_work_11.jim.config import *
+from home_work_11.server_log_config import serv_logger
+from home_work_11.decorator import log
 
 @log
 def message_response(message):
